@@ -9,12 +9,12 @@ com.uirusuniki.fuckmsedge{
 "versionCode":1
 }
 
-com.uirusuniki.example2{
-"name": "Example Portable",
-"Description": "自前サーバーのzip(ポータブル)を使う例",
+com.uirusuniki.mediaremote{
+"name": "MediaRemote",
+"Description": "スマホをメディアコントローラにできるアプリ",
 "image": "image/Noimage.png",
-"file": "https://pcuirustore.uirusu.com/example.zip",
-"exe": "Example.exe",
+"file": "https://pcuirustore.uirusu.com/MediaRemote-Setup-1.0.0.exe",
+"type": "installer",
 "version":1.0.0,
 "versionCode":1
 }
