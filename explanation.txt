@@ -1,8 +1,8 @@
-com.uirusuniki.example{
-"name": "Example",
-"Description": "リポジトリ内のインストーラーを使う例",
+com.uirusuniki.fuckmsedge{
+"name": "fuckmsedge",
+"Description": "microsoft edgeが嫌いすぎる人におすすめ",
 "image": "image/Noimage.png",
-"file": "app/example-setup.exe",
+"file": "app/fuckmsedge.exe",
 "type": "installer",
 "args": "/S",
 "version":1.0.0,
