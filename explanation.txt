@@ -1,7 +1,7 @@
 com.uirusuniki.fuckmsedge{
 "name": "fuckmsedge",
 "Description": "microsoft edgeが嫌いすぎる人におすすめ",
-"image": "image/Noimage.png",
+"image": "image/fuckmsedge.png",
 "file": "app/FuckMSEdge_Setup.exe",
 "type": "installer",
 "args": "/S",
