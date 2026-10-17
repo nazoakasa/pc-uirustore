@@ -1,2 +1,2 @@
 com.uirusuniki.fuckmsedge
-com.uirusuniki.example2
+com.uirusuniki.mediaremote
