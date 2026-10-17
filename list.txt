@@ -1,2 +1,2 @@
-com.uirusuniki.example
+com.uirusuniki.fuckmsedge
 com.uirusuniki.example2
