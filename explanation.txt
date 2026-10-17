@@ -1,0 +1,20 @@
+com.uirusuniki.example{
+"name": "Example",
+"Description": "リポジトリ内のインストーラーを使う例",
+"image": "image/Noimage.png",
+"file": "app/example-setup.exe",
+"type": "installer",
+"args": "/S",
+"version":1.0.0,
+"versionCode":1
+}
+
+com.uirusuniki.example2{
+"name": "Example Portable",
+"Description": "自前サーバーのzip(ポータブル)を使う例",
+"image": "image/Noimage.png",
+"file": "https://pcuirustore.uirusu.com/example.zip",
+"exe": "Example.exe",
+"version":1.0.0,
+"versionCode":1
+}
