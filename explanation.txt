@@ -22,7 +22,7 @@ com.uirusuniki.mediaremote{
 com.uirusuniki.northwindowsapp{
 "name": "North for Windows",
 "Description": "あの大人気スペシャルウルトラSNSのNorthをWindowsネイティブバージョンで作りました！",
-"image": "image/fuckmsedge.png",
+"image": "image/north.png",
 "file": "app/northsetup.exe",
 "type": "installer",
 "args": "/S",
