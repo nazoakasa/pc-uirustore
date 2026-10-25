@@ -1,2 +1,3 @@
 com.uirusuniki.fuckmsedge
 com.uirusuniki.mediaremote
+com.uirusuniki.northwindowsapp
