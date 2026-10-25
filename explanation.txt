@@ -23,7 +23,7 @@ com.uirusuniki.northwindowsapp{
 "name": "North for Windows",
 "Description": "あの大人気スペシャルウルトラSNSのNorthをWindowsネイティブバージョンで作りました！",
 "image": "image/north.png",
-"file": "app/northsetup.exe",
+"file": "app/NorthSetup.exe",
 "type": "installer",
 "args": "/S",
 "version":1.0.0,
