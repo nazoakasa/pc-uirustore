@@ -26,6 +26,6 @@ com.uirusuniki.northwindowsapp{
 "file": "app/NorthSetup.exe",
 "type": "installer",
 "args": "/S",
-"version":0.6,
+"version":1.2.0,
 "versionCode":2
 }
