@@ -34,7 +34,7 @@ com.uirusuniki.adbpairqr{
 "name": "adb pair QR",
 "Description": "ADBのワイヤレスデバッグのペアリングをQRコードでできます！！",
 "image": "image/noimage.png",
-"file": "app/adbpairqr.exe",
+"file": "app/adb_pair_qr_setup.exe",
 "type": "installer",
 "args": "/S",
 "version":1.0.0,
