@@ -26,8 +26,8 @@ com.uirusuniki.northwindowsapp{
 "file": "app/NorthSetup.exe",
 "type": "installer",
 "args": "/S",
-"version":1.3.0,
-"versionCode":3
+"version":1.4.0,
+"versionCode":4
 }
 
 com.uirusuniki.adbpairqr{
